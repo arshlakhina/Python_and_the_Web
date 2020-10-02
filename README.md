@@ -18,7 +18,7 @@
 Scripts in python that scrape the web, create a bot or use an API to solve a problem.
 We now have a section for miscellaneous scripts as well.
 
-**Note**: 100 Ideas implemented using python List available [Here](https://python-world.github.io/python-mini-projects/#/)
+**Note**: 100 Ideas implemented using python list available [Here](https://python-world.github.io/python-mini-projects/#/)
 ## Steps To Follow
 
 - Select an issue and ask to be *assigned* to it.
@@ -57,7 +57,7 @@ We now have a section for miscellaneous scripts as well.
 
 - Create a folder in one of the folders in the [Scripts' directory](https://github.com/Python-World/Python_and_the_Web/tree/master/Scripts) according to issue name.
 - Write your code and add to the respective folder in the projects directory, locally.
-- Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/chavarera/python-mini-projects/blob/master/README_TEMPLATE.md)
+- Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/chavarera/python-mini-projects/blob/master/README_TEMPLATE.md).
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
@@ -76,7 +76,7 @@ We now have a section for miscellaneous scripts as well.
     ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-- Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification.
+- Now wait, until one of us *reviews your Pull Request*! If there are any conflicts, you will get a notification via email.
 
 ## README Template for scripts
 
